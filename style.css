@@ -1,5 +1,7 @@
 body{
     background-color: black;
+    color: white;
+    text-align: center;
   }
   #poster{
     border: 5px solid white;
@@ -11,7 +13,7 @@ body{
     font-family: "Libre Bakersville" ,serif;
   }
   img{
-    height: auto;
+    height: 100%;
     width: 100%;
   }
  
